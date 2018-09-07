@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+table{
+    
+    width:75%;
+    margin:auto;
+    font-size:1.5em;
+}
+
+
+ 
+
+td{
+    border-bottom: 1px solid blue;
+}
+
+tr:nth-child(odd) { background: yellow; }
+
+
+th{
+    border: 3px double purple;
+
+
+}
+    
+  
+
+
+
+legend {
+    text-align: left;
+    background-color: #000;
+    color: #fff;
+    padding: 3px 6px;
+}
+
+}
+
+input {
+    
+    margin:auto;
+}
+
+label {
+    display: inline-block;
+    text-align: right;
+    width: 20%;
+
+    
