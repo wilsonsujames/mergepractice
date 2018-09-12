@@ -8,7 +8,17 @@ function getLightSwitchStatus(){
         light_name:"main"
 
     })
-    .done(
+    
+  //  $( "input" ).change(function() {
+//      var lightstatus = $( "input" ).val();    
+//    }
+
+    
+    
+    
+    
+    .done(       
+        
         function(msg){
             
                 console.log(msg);
